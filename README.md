@@ -8,4 +8,4 @@
 
 #### Rust
 
-[The Rust Programming Language](https://doc.rust-lang.org/book/) [inside repo](pdf/The Rust Programming Language.pdf)
+[The Rust Programming Language](https://doc.rust-lang.org/book/) [inside repo](<pdf/The Rust Programming Language.pdf>)

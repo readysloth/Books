@@ -16,4 +16,8 @@
 
 #### Rust
 
-[The Rust Programming Language](https://doc.rust-lang.org/book/) [inside repo](<pdf/The Rust Programming Language.pdf>)
+[The Rust Programming Language](https://doc.rust-lang.org/book/) *[inside repo](<pdf/The Rust Programming Language.pdf>)*
+
+### Research
+
+[Fuzzing Brute Force Vulnerability Discovery](http://index-of.es/Miscellanous/Fuzzing%20%20Brute%20Force%20Vulnerability%20Discovery.pdf) *[inside repo](<pdf/Fuzzing Brute Force Vulnerability Discovery.pdf>)*

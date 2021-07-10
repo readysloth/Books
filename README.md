@@ -2,6 +2,10 @@
 
 ### Programming Languages
 
+#### C
+
+[Object-Oriented Programming With ANSI-C](https://www.cs.rit.edu/~ats/books/ooc.pdf) *[inside repo](<pdf/ooc.pdf>)*
+
 #### Scheme
 
 [Concrete Abstractions](https://gustavus.edu/mcs/max/concrete-abstractions-pdfs/ConcreteAbstractions.pdf) [inside repo](pdf/ConcreteAbstractions.pdf)
@@ -21,3 +25,7 @@
 ### Research
 
 [Fuzzing Brute Force Vulnerability Discovery](http://index-of.es/Miscellanous/Fuzzing%20%20Brute%20Force%20Vulnerability%20Discovery.pdf) *[inside repo](<pdf/Fuzzing Brute Force Vulnerability Discovery.pdf>)*
+
+### Misc
+
+[Linux Device Drivers](https://bootlin.com/doc/books/ldd3.pdf) *[inside repo](<pdf/ldd3.pdf>)*

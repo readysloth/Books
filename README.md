@@ -8,7 +8,7 @@
 
 #### Scheme
 
-[Concrete Abstractions](https://gustavus.edu/mcs/max/concrete-abstractions-pdfs/ConcreteAbstractions.pdf) [inside repo](pdf/ConcreteAbstractions.pdf)
+[Concrete Abstractions](https://gustavus.edu/mcs/max/concrete-abstractions-pdfs/ConcreteAbstractions.pdf) *[inside repo](pdf/ConcreteAbstractions.pdf)*
 
 [The Scheme Programming Language. Fourth Edition](https://www.scheme.com/tspl4/) *[inside repo](pdf/The.Scheme.Programming.Language.4th.Edition.pdf)*
 
@@ -25,6 +25,11 @@
 ### Research
 
 [Fuzzing Brute Force Vulnerability Discovery](http://index-of.es/Miscellanous/Fuzzing%20%20Brute%20Force%20Vulnerability%20Discovery.pdf) *[inside repo](<pdf/Fuzzing Brute Force Vulnerability Discovery.pdf>)*
+
+
+### Security
+
+[Practical Linux Security Cookbook](http://index-of.es/Miscellanous/Fuzzing%20%20Brute%20Force%20Vulnerability%20Discovery.pdf) *[inside repo](<pdf/PLSC.zip>)*
 
 ### Misc
 

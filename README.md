@@ -31,6 +31,10 @@
 
 [Practical Linux Security Cookbook](http://index-of.es/Miscellanous/Fuzzing%20%20Brute%20Force%20Vulnerability%20Discovery.pdf) *[inside repo](<pdf/PLSC.zip>)*
 
+
+[Security Enhanced Linux](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/pdf/security-enhanced_linux/red_hat_enterprise_linux-6-security-enhanced_linux-en-us.pdf) *[inside repo](<pdf/SELinux.pdf>)*
+
+
 ### Misc
 
 [Linux Device Drivers](https://bootlin.com/doc/books/ldd3.pdf) *[inside repo](<pdf/ldd3.pdf>)*

@@ -38,3 +38,5 @@
 ### Misc
 
 [Linux Device Drivers](https://bootlin.com/doc/books/ldd3.pdf) *[inside repo](<pdf/ldd3.pdf>)*
+
+[Computer Networking a top-down approach 8th edition](https://raw.githubusercontent.com/armatrix/cs-computer-networking/master/computer-networking-a-top-down-approach-8th-edition.pdf) *[inside repo](<pdf/computer-networking-a-top-down-approach-8th-edition.pdf>)*
